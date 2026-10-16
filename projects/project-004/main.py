@@ -17,3 +17,9 @@ first = temperatures[0]
 third = temperatures[2]
 last = temperatures[-1]
 second_to_last = temperatures[-2]
+
+# Task 3
+first_three_measurements = temperatures[0:2]
+second_to_fourth = temperatures[1:3]
+all_ex_first_n_last = temperatures[1:-2]
+last_three_measurements = temperatures[-3]
